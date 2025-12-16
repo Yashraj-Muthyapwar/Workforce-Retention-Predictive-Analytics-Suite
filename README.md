@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# Workforce Retention & Predictive Analytics Suite
 
 A concise Tableau dashboard to monitor workforce **headcount, hiring trends, and attrition**.  
 **Live demo:** [Open on Tableau Public](<https://public.tableau.com/app/profile/yash.raj.muthyapwar/viz/HR_Analytics_Workbook/HRDashboard>)
